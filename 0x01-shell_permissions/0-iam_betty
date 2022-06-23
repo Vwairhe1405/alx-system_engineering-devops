@@ -1,2 +1,2 @@
 #!/bin/bash
-Sudo betty
+Sudo chown betty some_file
