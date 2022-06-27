@@ -1,2 +1,2 @@
 #!/bin/bash
-iacta | uniq -d
+grep iacta | uniq -d
